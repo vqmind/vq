@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Vq
+
+```
+%  echo '{"name":"Raj", "age":25}' | vq  "$.name"   
+Raj
+```
+
+
 
 You can use the [editor on GitHub](https://github.com/vqmind/vq/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
